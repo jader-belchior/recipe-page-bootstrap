@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.rounded-more{
+    border-radius: 1rem;
+}
+
+.bg-body{
+    background-color: hsl(30, 54%, 90%);
+}
+
+.bg-lightpurple{
+    background-color: rgb(255, 243, 253);
+}
+.font-purple{
+    color: rgb(161, 0, 134);
+}
+
+.font-light{
+    color: rgb(89, 89, 89);
+}
+
+.title{
+    color: black;
+}
+.title-secondary{
+    color: rgb(148, 57, 65);
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
